@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Credits>
+	 	  	<Text
+	 Text = "Mod by bads.tm (c) 2017"
+         TimeToStart = "0"
+         Speed = "15"
+         Position = "1"
+	 />
+ 	<Text
+	 Text = "[Credits text 02]"
+         TimeToStart = "0.0"
+         Speed = "12"
+         Position = "2"
+	 />
+ 	<Text
+	 Text = "[Credits text 03]"
+         TimeToStart = "144.2"
+         Speed = "9"
+         Position = "2"
+	 />
+ 	<Text
+	 Text = "[Credits text 04]"
+         TimeToStart = "294"
+         Speed = "5"
+         Position = "1"
+	 />
+	  	<Text
+	 Text = "[Credits text 05]"
+         TimeToStart = "295"
+         Speed = "5"
+         Position = "3"
+	 />
+</Credits>
