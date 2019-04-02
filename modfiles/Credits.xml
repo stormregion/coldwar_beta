@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <Credits>
-	 	  	<Text
-	 Text = "Mod by bads.tm (c) 2017"
-         TimeToStart = "0"
-         Speed = "15"
+	 <Text
+	 Text = "CPCW Beta Mod v2 by
+bads.tm/dariusworks
+(c) 2017, 2019"
+         TimeToStart = "0.0"
+         Speed = "9"
          Position = "1"
 	 />
+	<Text
+	 Text = "[Credits text 01]"
+         TimeToStart = "0.0"
+         Speed = "9"
+         Position = "2"
+         />
  	<Text
 	 Text = "[Credits text 02]"
-         TimeToStart = "0.0"
+         TimeToStart = "43.3"
          Speed = "12"
-         Position = "2"
+         Position = "0"
 	 />
  	<Text
 	 Text = "[Credits text 03]"
