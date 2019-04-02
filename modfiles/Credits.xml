@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <Credits>
-	 <Text
-	 Text = "CPCW Beta Mod v2 by
-bads.tm/dariusworks
-(c) 2017, 2019"
+	 	  	<Text
+	 Text = "{color=unitred}CPCW Beta Mod{color=white} v2{BR}{color=grey}by {color=blue}bads.tm{color=grey}/{color=green}dariusworks{BR}{color=grey}(c) 2017, 2019"
          TimeToStart = "0.0"
          Speed = "9"
          Position = "1"
