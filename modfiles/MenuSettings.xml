@@ -5,10 +5,10 @@
             Video = "MenuVideo/10t-logo-800.avi"
             Music = ""
         />
-	<!-- <Style
-            Video = "MenuVideo/gepard3.avi" <? Maybe replace with powered by gepard ?>
+	<Style
+            Video = "MenuVideo/innoglow.avi"
             Music = ""
-        /> -->
+        />
         <Style
             Video = "MenuVideo/Storm_Logo.avi"
             Music = ""
